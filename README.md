@@ -7,7 +7,7 @@
 
 ## After installation
 
-Don't forder to import all ACF settings from the [file]()
+Don't forder to import all ACF settings from the [file](https://github.com/DarPru/wp-template-1/blob/main/acf-export-2021-06-28.json)
 
 1. Open *custom fields*
 2. Go to *tools*
